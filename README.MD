@@ -195,3 +195,6 @@ Currently supported databases are:</p>
     &lt;/body&gt;
 &lt;/html&gt;</code></pre></figure>
 </code></pre></figure>  
+
+for more example visit 
+<a href="idgenerator.mitor.or.id">example page</a>
